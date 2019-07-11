@@ -1,4 +1,4 @@
-# unity3d-kata - short technical test
+# Unity 3D Kata - Short technical test
 
 Spend 1 – 2 hours creating a very basic scene and character controller that demonstrates your understanding of Unity 3D and Zenject.
 
@@ -25,4 +25,4 @@ If you have any concise, publicly available code that can demonstrate your under
   * Create a basic character controller that you can move with the arrow keys
   * Any perspective or camera settings (2D or 3D) – whichever you find easiest and quickest to implement
 * Set up an iOS target build (for a basic development package)
-* Document where possible
+* Document where possible. At the very least, indicate which version of Unity 3D you created the solution in and how to build the app.
